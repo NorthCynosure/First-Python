@@ -1,2 +1,2 @@
-# First-Python
-the first Python object
+# MyPython
+the Python object
