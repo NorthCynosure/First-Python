@@ -25,7 +25,7 @@ class Student(object):
     def __reper__(self):
     	return f'{self.name}:{self.age}'
 		
-'''蛤蛤'''
+'''蛤蛤哈'''
 
 
 
